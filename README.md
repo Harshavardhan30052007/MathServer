@@ -138,7 +138,8 @@ math.html
 
 ## HOMEPAGE:
 
-![WhatsApp Image 2024-12-23 at 11 27 08_ddd7e63b](https://github.com/user-attachments/assets/8a66c217-1774-4f2a-8c41-64c022d226b9)
+<img width="1582" height="944" alt="Screenshot 2025-11-12 143457" src="https://github.com/user-attachments/assets/8a648551-9bc9-41db-aaf5-394447b1b520" />
+6b9)
 
 
 ## RESULT:
